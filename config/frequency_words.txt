@@ -110,4 +110,954 @@ ai
 火星
 宇宙
 飞船
+
+网络主权
+
+数字主权
+
+数据主权
+
+国家安全
+
+信息安全
+
+网络战
+
+混合战争
+
+信息战
+
+舆论战
+
+心理战
+
+网络攻击
+
+网络防御
+
+关键基础设施
+
+工业控制系统
+
+供应链安全
+
+零信任架构
+
+加密技术
+
+量子通信
+
+5G安全
+
+6G战略
+
+大数据治理
+
+跨境数据流动
+
+数据本地化
+
+数据合规
+
+隐私保护
+
+个人信息保护
+
+GDPR
+
+网络立法
+
+数字监管
+
+平台治理
+
+数字鸿沟
+
+数字霸权
+
+技术霸权
+
+科技脱钩
+
+产业链重构
+
+去风险化（De-risking）
+
+数字贸易
+
+数字货币
+
+中央银行数字货币（CBDC）
+
+区块链治理
+
+网络犯罪
+
+跨国犯罪
+
+勒索软件
+
+黑客组织
+
+网络恐怖主义
+
+暗网经济
+
+非法融资
+
+洗钱监管
+
+金融制裁
+
+制裁合规
+
+全球治理
+
+网络空间治理
+
+多边主义
+
+单边主义
+
+国际规则制定
+
+国际法适用
+
+数字人权
+
+言论自由
+
+内容审查
+
+虚假信息
+
+深度伪造（Deepfake）
+
+信息操纵
+
+选举干预
+
+舆情操控
+
+话语权竞争
+
+叙事安全
+
+价值观竞争
+
+意识形态安全
+
+文化安全
+
+社会稳定
+
+公共安全
+
+城市安全
+
+智慧城市
+
+物联网安全
+
+云计算安全
+
+边缘计算安全
+
+人工智能安全
+
+算法治理
+
+自动化武器
+
+军民融合
+
+军事情报
+
+间谍活动
+
+网络间谍
+
+情报共享
+
+盟友体系
+
+地缘政治
+
+大国竞争
+
+战略威慑
+
+战略稳定
+
+信任与安全机制
+
+公私合作伙伴关系（PPP）
+
+网络安全产业
+
+安全人才体系
+
+网络安全标准
+
+国际合作机制
+
+CERT/CSIRT 协作
+
+联合演习
+
+危机管理
+
+风险评估
+
+韧性（Resilience）
+中国
+China
+
+美国
+United States / USA
+
+俄罗斯
+Russia
+
+欧盟
+European Union / EU
+
+德国
+Germany
+
+法国
+France
+
+英国
+United Kingdom / UK
+
+日本
+Japan
+
+韩国
+South Korea / Republic of Korea
+
+印度
+India
+
+巴西
+Brazil
+
+南非
+South Africa
+
+沙特阿拉伯
+Saudi Arabia
+
+阿拉伯联合酋长国 / 阿联酋
+United Arab Emirates / UAE
+
+以色列
+Israel
+
+伊朗
+Iran
+
+土耳其
+Turkey
+
+乌克兰
+Ukraine
+
+波兰
+Poland
+
+北大西洋公约组织 / 北约
+North Atlantic Treaty Organization / NATO
+
+澳大利亚
+Australia
+
+加拿大
+Canada
+
+新加坡
+Singapore
+
+中国香港特别行政区 / 香港地区
+Hong Kong SAR, China / Hong Kong
+
+中国台湾地区 / 台湾
+Taiwan region / Taiwan
+
+瑞士
+Switzerland
+
+瑞典
+Sweden
+
+挪威
+Norway
+
+荷兰
+Netherlands
+
+西班牙
+Spain
+
+意大利
+Italy
+
+比利时
+Belgium
+
+捷克
+Czech Republic / Czechia
+
+匈牙利
+Hungary
+
+芬兰
+Finland
+
+爱沙尼亚
+Estonia
+
+爱尔兰
+Ireland
+
+墨西哥
+Mexico
+
+阿根廷
+Argentina
+
+尼日利亚
+Nigeria
+
+印度尼西亚
+Indonesia
+
+马来西亚
+Malaysia
+
+泰国
+Thailand
+
+越南
+Vietnam
+
+菲律宾
+Philippines
+
+埃及
+Egypt
+
+卡塔尔
+Qatar
+
+文莱
+Brunei
+
+非洲联盟 / 非盟
+African Union / AU
+
+东南亚国家联盟 / 东盟
+Association of Southeast Asian Nations / ASEAN
 航空
+
+
+网络安全
+Cybersecurity
+
+信息安全
+Information Security
+
+信息保障
+Information Assurance
+
+数据安全
+Data Security
+
+数据保护
+Data Protection
+
+隐私保护
+Privacy Protection
+
+个人信息保护
+Personal Data Protection
+
+访问控制
+Access Control
+
+身份认证
+Authentication
+
+授权
+Authorization
+
+机密性
+Confidentiality
+
+完整性
+Integrity
+
+可用性
+Availability
+
+不可否认性
+Non-repudiation
+
+最小权限原则
+Principle of Least Privilege
+
+零信任
+Zero Trust
+
+零信任架构
+Zero Trust Architecture
+
+安全策略
+Security Policy
+
+安全基线
+Security Baseline
+
+安全合规
+Security Compliance
+
+安全治理
+Security Governance
+
+风险管理
+Risk Management
+
+风险评估
+Risk Assessment
+
+风险缓解
+Risk Mitigation
+
+威胁建模
+Threat Modeling
+
+威胁情报
+Threat Intelligence
+
+攻击面
+Attack Surface
+
+攻击向量
+Attack Vector
+
+攻击链
+Attack Chain
+
+杀伤链
+Kill Chain
+
+漏洞
+Vulnerability
+
+漏洞利用
+Exploit
+
+漏洞扫描
+Vulnerability Scanning
+
+漏洞管理
+Vulnerability Management
+
+渗透测试
+Penetration Testing
+
+红队
+Red Team
+
+蓝队
+Blue Team
+
+紫队
+Purple Team
+
+对抗演练
+Adversary Simulation
+
+安全审计
+Security Audit
+
+安全评估
+Security Evaluation
+
+安全加固
+Security Hardening
+
+安全测试
+Security Testing
+
+安全监控
+Security Monitoring
+
+安全运营中心
+Security Operations Center (SOC)
+
+日志审计
+Log Auditing
+
+日志管理
+Log Management
+
+安全告警
+Security Alert
+
+事件响应
+Incident Response
+
+事件处理
+Incident Handling
+
+安全事件
+Security Incident
+
+数据泄露
+Data Breach
+
+入侵检测
+Intrusion Detection
+
+入侵防御
+Intrusion Prevention
+
+主机入侵检测系统
+Host-based Intrusion Detection System (HIDS)
+
+网络入侵检测系统
+Network-based Intrusion Detection System (NIDS)
+
+安全信息与事件管理
+Security Information and Event Management (SIEM)
+
+端点检测与响应
+Endpoint Detection and Response (EDR)
+
+扩展检测与响应
+Extended Detection and Response (XDR)
+
+防火墙
+Firewall
+
+下一代防火墙
+Next-Generation Firewall (NGFW)
+
+应用层防火墙
+Application Firewall
+
+网关
+Gateway
+
+边界防护
+Perimeter Security
+
+网络分段
+Network Segmentation
+
+虚拟局域网
+Virtual LAN (VLAN)
+
+虚拟专用网络
+Virtual Private Network (VPN)
+
+远程访问
+Remote Access
+
+安全远程访问
+Secure Remote Access
+
+加密
+Encryption
+
+解密
+Decryption
+
+对称加密
+Symmetric Encryption
+
+非对称加密
+Asymmetric Encryption
+
+公钥基础设施
+Public Key Infrastructure (PKI)
+
+数字证书
+Digital Certificate
+
+数字签名
+Digital Signature
+
+密钥管理
+Key Management
+
+密钥协商
+Key Exchange
+
+哈希函数
+Hash Function
+
+消息认证码
+Message Authentication Code (MAC)
+
+安全协议
+Security Protocol
+
+传输层安全协议
+Transport Layer Security (TLS)
+
+安全超文本传输协议
+HTTPS
+
+虚拟化安全
+Virtualization Security
+
+云安全
+Cloud Security
+
+多云安全
+Multi-cloud Security
+
+云访问安全代理
+Cloud Access Security Broker (CASB)
+
+容器安全
+Container Security
+
+微服务安全
+Microservices Security
+
+边缘计算安全
+Edge Computing Security
+
+物联网安全
+Internet of Things Security (IoT Security)
+
+工业控制系统安全
+Industrial Control System Security (ICS Security)
+
+SCADA安全
+SCADA Security
+
+关键基础设施保护
+Critical Infrastructure Protection
+
+安全分区
+Security Zoning
+
+数据分类分级
+Data Classification
+
+数据脱敏
+Data Masking
+
+数据匿名化
+Data Anonymization
+
+数据水印
+Data Watermarking
+
+备份与恢复
+Backup and Recovery
+
+灾难恢复
+Disaster Recovery
+
+业务连续性
+Business Continuity
+
+冗余
+Redundancy
+
+高可用
+High Availability
+
+安全架构
+Security Architecture
+
+安全设计
+Security by Design
+
+默认安全
+Secure by Default
+
+安全开发生命周期
+Secure Development Lifecycle (SDL)
+
+安全编码
+Secure Coding
+
+代码审计
+Code Review / Code Audit
+
+静态应用安全测试
+Static Application Security Testing (SAST)
+
+动态应用安全测试
+Dynamic Application Security Testing (DAST)
+
+交互式应用安全测试
+Interactive Application Security Testing (IAST)
+
+软件成分分析
+Software Composition Analysis (SCA)
+
+供应链安全
+Supply Chain Security
+
+软件供应链安全
+Software Supply Chain Security
+
+补丁管理
+Patch Management
+
+安全基线检查
+Baseline Check
+
+资产管理
+Asset Management
+
+配置管理
+Configuration Management
+
+终端安全
+Endpoint Security
+
+移动设备管理
+Mobile Device Management (MDM)
+
+身份与访问管理
+Identity and Access Management (IAM)
+
+特权账号管理
+Privileged Access Management (PAM)
+
+单点登录
+Single Sign-On (SSO)
+
+多因素认证
+Multi-Factor Authentication (MFA)
+
+生物特征认证
+Biometric Authentication
+
+行为分析
+Behavior Analytics
+
+用户与实体行为分析
+User and Entity Behavior Analytics (UEBA)
+
+威胁狩猎
+Threat Hunting
+
+攻击检测
+Attack Detection
+
+攻击面管理
+Attack Surface Management
+
+暴露面管理
+Exposure Management
+
+网络钓鱼
+Phishing
+
+针对性钓鱼
+Spear Phishing
+
+捕鲸式钓鱼
+Whaling
+
+商业邮件欺诈
+Business Email Compromise (BEC)
+
+社会工程
+Social Engineering
+
+恶意软件
+Malware
+
+病毒
+Virus
+
+蠕虫
+Worm
+
+木马
+Trojan
+
+间谍软件
+Spyware
+
+键盘记录器
+Keylogger
+
+勒索软件
+Ransomware
+
+僵尸网络
+Botnet
+
+远程访问木马
+Remote Access Trojan (RAT)
+
+后门
+Backdoor
+
+利用工具包
+Exploit Kit
+
+零日漏洞
+Zero-day Vulnerability
+
+零日攻击
+Zero-day Exploit
+
+拒绝服务攻击
+Denial of Service (DoS) Attack
+
+分布式拒绝服务攻击
+Distributed Denial of Service (DDoS) Attack
+
+中间人攻击
+Man-in-the-Middle Attack (MITM)
+
+重放攻击
+Replay Attack
+
+会话劫持
+Session Hijacking
+
+DNS劫持
+DNS Hijacking
+
+域名欺骗
+DNS Spoofing
+
+ARP欺骗
+ARP Spoofing
+
+IP欺骗
+IP Spoofing
+
+SQL注入
+SQL Injection
+
+跨站脚本
+Cross-Site Scripting (XSS)
+
+跨站请求伪造
+Cross-Site Request Forgery (CSRF)
+
+命令注入
+Command Injection
+
+代码注入
+Code Injection
+
+目录遍历
+Directory Traversal
+
+提权
+Privilege Escalation
+
+横向移动
+Lateral Movement
+
+持久化
+Persistence
+
+凭证窃取
+Credential Theft
+
+密码喷洒
+Password Spraying
+
+暴力破解
+Brute-force Attack
+
+字典攻击
+Dictionary Attack
+
+彩虹表攻击
+Rainbow Table Attack
+
+脆弱密码
+Weak Password
+
+安全意识培训
+Security Awareness Training
+
+安全文化
+Security Culture
+
+内部威胁
+Insider Threat
+
+恶意内部人
+Malicious Insider
+
+误操作
+Human Error
+
+合规审计
+Compliance Audit
+
+安全标准
+Security Standard
+
+ISO 27001标准
+ISO/IEC 27001 Standard
+
+NIST框架
+NIST Cybersecurity Framework
+
+网络安全法
+Cybersecurity Law
+
+数据保护法规
+Data Protection Regulation
+
+通用数据保护条例
+General Data Protection Regulation (GDPR)
+
+关键信息基础设施
+Critical Information Infrastructure
+
+隐私影响评估
+Privacy Impact Assessment (PIA)
+
+安全影响评估
+Security Impact Assessment
+
+安全控制
+Security Control
+
+技术控制
+Technical Control
+
+管理控制
+Administrative Control
+
+物理安全
+Physical Security
+
+身份证明
+Identity Proofing
+
+安全令牌
+Security Token
+
+一次性密码
+One-Time Password (OTP)
+
+行为生物特征
+Behavioral Biometrics
+
+信任锚
+Trust Anchor
+
+韧性 / 韧性安全
+Resilience / Cyber Resilience
